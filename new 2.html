@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<style>
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+</style>
+</head>
+<body>
+<input type="checkbox" id="check" label="check me" value="check" onclick="return onCheck()"/>
+<div id="content">
+</div>
+<script>
+
+
+var strdata= "3096~ABC DEF~29~NE|3097~ABC DEG~30~ME|3098~CDE DEF~29~ZE|3099~XYZ DEF~29~HE";
+//onChecking(strdata);
+function onCheck(){
+
+var strdata= "3096~ABC DEF~29~NE|3097~ABC DEG~30~ME|3098~CDE DEF~29~ZE|3099~XYZ DEF~29~HE";
+onChecking(strdata);
+}
+
+function onChecking(strdata){
+	
+var str1 = strdata.split("|");
+//alert(str1.length);
+ 
+    var table = document.createElement("table");
+    table.className="gridtable";
+    var thead = document.createElement("thead");
+    var tbody = document.createElement("tbody");
+    var headRow = document.createElement("tr");
+	
+    ["Product","Region"].forEach(function(el) {
+      var th=document.createElement("th");
+      th.appendChild(document.createTextNode(el));
+      headRow.appendChild(th);
+    });
+    thead.appendChild(headRow);
+    table.appendChild(thead); 
+    for(var i=0;i<str1.length;i++) {
+	var str2 = str1[i].split("~");
+	var txt=[str2[1],str2[3]];
+	
+      var tr = document.createElement("tr");
+         for(var j=0;j<2;j++)
+		 {
+        var td = document.createElement("td");
+        td.appendChild(document.createTextNode(txt[j]));
+        tr.appendChild(td);
+      }
+      tbody.appendChild(tr);  
+    }
+    table.appendChild(tbody); 
+	
+	$("#content").empty();
+	document.getElementById("content").appendChild(table);
+}
+
+
+
+</script>
+
+
+</body>
+</html>
