@@ -1,0 +1,83 @@
+Mr. Abhinav had joined as an Entry level trainee and has shown a lot of promise and considerably grown since. Mr. Abhinav is responsible, hardworking and honest person.
+
+Mr. Abhinav has been associated with the projects and has been involved in the initial transition and setting up the projects.  
+
+Mr. Abhinav engaged in providing IT services like analysis and design, Software Development, User training and Technical consulting in the area of Programming and Application support.
+
+Mr. Abhinav has grown and played different roles in the project to meet the Client requirement and has been working on different modules and applications in the project as a Developer.
+
+Mr. Abhinav has also played a role in ensuring standards in the customer deliverables and to improve the Customer satisfaction by taking part in driving various organizational activities.
+
+Mr. Abhinav has been improving themselves with the state of art skill set on Java and related technologies, and always meets the intense and ever increasing demand for latest technologies in the IT industry.
+
+Mr. Abhinav roles in the project have been summarized below and detailed out in the coming sections:
+
+Knowledge Transition on applications categorized as Business Critical by the Clients.
+Application development and fixing technical issues by the Business users as well as IT operations.
+Developing applications related standard service request from Business users.
+Responsible for managing Information Security controls through a consistent, reliable and documented processes of data management.
+Transition management from the delivery to support organization during project rollouts.
+ 
+
+TECHNICAL SKILLS
+
+Operating Systems : Windows XP/7/10. 
+
+Languages/Technology : Core Java, J2EE, Spring Core and Web MVC, Hibernate, Stored Procedures, Web Services (REST), SOAP UI, HTML, CSS, JavaScript, JQUERY and AJAX. 
+
+Java IDEs : IBM Rational Developer Application (RAD), Eclipse 
+
+RDBMS : IBM DB2, Microsoft SQL Server. 
+
+Web/Application Servers : IBM WebSphere, Apache Tomcat.
+
+Software Development Frameworks  : Agile Framework. 
+
+Development and Build Tools : IBM Data Studio Client, Maven. 
+
+SCM Tools : GIT, IBM CLEARCASE.
+
+ 
+
+PROJECT OVERVIEW
+
+Project 1
+
+Role: Application Developer.
+
+Tools/Technologies: Core Java, Spring Core and MVC, GITHUB, IBM ClearCase, RAD, Maven, IBM WebSphere, IBM Data Studio, MS SQL Server, REST, SOAP UI, UltraEdit, Beyond Compare.
+
+Role and Responsibilities
+
+Requirement analysis on enhancement requests.
+Impact analysis on change requests.
+Data modeling for new developments.
+Preparation of Unit Test Plan.
+Development and Testing.
+Mr. Abhinav has worked on creating/modifying Stored Procedures in IBM DB2 and MS SQL Server and also worked on various standalone(batch) and web applications based on core java and spring to meet business needs and to implement several business logic.
+
+Mr. Abhinav has provided his technical assistance on various UI related changes in the applications, as he has helped in coverting various applications to make them Windows 10(Chrome support) compatible for buisness users.
+
+Mr. Abhinav has also provided his technical assistance in migrating the existing applications to DEVOPS.
+
+Apart from the buisness work, he was also indulged in doing POC's and creating various tools as a part of innovations for the team which helps in reducing the working efforts of the other team members.
+
+Mr. Abhinav is good team player and was able to finish complex tasks within the given time limits.
+
+ 
+
+Project 2
+
+Role: Application Developer.
+
+Tools/Technologies: Android, Java, Android Studio IDE, Notepad++, Eclipse IDE and Postman.
+
+Role and Responsibilities
+
+Developer – Understanding of existing implementation and designing a new approach.
+Code analysis and error fixing.
+JSON file creation from the content retrieved from the API response using java.
+He has done requirement analysis on enhancement requests.
+He has done impact analysis on change requests.
+He was involved in the development of REST api and end to end testing.
+He completed the preparation of Unit Test Plan.
